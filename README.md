@@ -73,7 +73,7 @@ Para que o backup rode de forma 100% autônoma e com as permissões corretas par
 ## 📧 Exemplos de Notificações
 
 ### ▶️ E-mail de Início
-![Print do Email de Início](./screenshot/print01_iniciando.png)
+![Print do Email de Início](./screenshot/Print_01_DumpQVF_ScriptIniciado.png)
 
 ### ✅ E-mail de Sucesso
 
