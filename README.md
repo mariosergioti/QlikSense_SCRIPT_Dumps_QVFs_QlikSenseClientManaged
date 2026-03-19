@@ -1,4 +1,4 @@
-# 📦 Cubotimize - Backup de Aplicações Qlik Sense (QVF)
+# 📦 Backup de Aplicações Qlik Sense (QVF)
 
 [](https://www.google.com/search?q=./QlikSense_SCRIPT_Dumps_QVFs_QlikSenseClientManaged_MarioSoares_v2.4.0.ps1)
 
