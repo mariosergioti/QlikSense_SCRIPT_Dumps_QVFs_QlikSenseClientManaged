@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-Cubotimize - Backup de Aplicações Qlik Sense Client-Managed (QVF)
+Cubotimize - Dumps de Aplicações Qlik Sense Client-Managed (QVF)
 
 .DESCRIPTION
 Script para controle de backups dos apps (Publicados e Não Publicados) do Qlik Sense Client-Managed.
