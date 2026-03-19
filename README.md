@@ -77,7 +77,9 @@ Para que o backup rode de forma 100% autônoma e com as permissões corretas par
 
 ### ✅ E-mail de Sucesso
 
+
 ### ⚠️ E-mail com Alertas/Falhas
+![Print do Email de Início](./screenshot/Print_02_DumpQVF_ScriptConcluidoComFalhas)
 
 -----
 
