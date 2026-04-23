@@ -1,5 +1,5 @@
 # 📦 Backups de Aplicações Qlik Sense Client-Managed (QVF)
-[![Baixar Script](https://img.shields.io/badge/📥_Baixar_Última_Versão-2E63E6?style=for-the-badge)](https://raw.githubusercontent.com/mariosergioti/QlikSense_SCRIPT_Dumps_QVFs_QlikSenseClientManaged/main/SCRIPT_Dumps_QVFs_QlikSenseClientManaged_MarioSoares.ps1)
+[![Baixar Script](https://img.shields.io/badge/📥_Baixar_Script-v2.4.1-2E63E6?style=for-the-badge)](https://github.com/mariosergioti/QlikSense_SCRIPT_Dumps_QVFs_QlikSenseClientManaged/archive/refs/tags/v2.4.1.zip)
 
 Script em PowerShell para automação de dumps/backups de aplicativos (.qvf) do **Qlik Sense Client-Managed**.
 
