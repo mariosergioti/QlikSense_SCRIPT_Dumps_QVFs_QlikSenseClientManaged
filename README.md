@@ -1,6 +1,6 @@
 # 📦 Backups de Aplicações Qlik Sense Client-Managed (QVF)
 [![Versão](https://img.shields.io/badge/Versão-2.4.1-2E63E6?style=for-the-badge)](https://github.com/mariosergioti/QlikSense_SCRIPT_Dumps_QVFs_QlikSenseClientManaged/archive/refs/tags/v2.4.1.zip)
-[![Licença](https://img.shields.io/badge/Licença-MIT-3BE854?style=for-the-badge)](.LICENSE)
+[![Licença](https://img.shields.io/badge/Licença-MIT-3BE854?style=for-the-badge)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell)](#-requisitos-e-prepara%C3%A7%C3%A3o)
 [![Módulo Qlik Cli](https://img.shields.io/badge/MÓdulo-QlikCli-009845?style=for-the-badge)](#como-instalar-e-preparar-o-qlik-cli)
 
